@@ -10,5 +10,5 @@ I am a fullstack developer and a profetional Microsoft Azure Cloud services tech
 
 
 ### My Favorite Project Repos
-* <a href="https://github.com/mrghdeveloper/MRGHDEV SocialMedia">MRGH Social Media</a> - Social Media Application With Varios Features Such As Bookmark, Comment, Search and more
+* <a href="https://github.com/mrghdeveloper/MrghSocialMedia">MRGHDEV Social Media</a> - Social Media Application With Varios Features Such As Bookmark, Comment, Search and more
 * <a href="https://mrghdevpizza.herokuapp.com/">MRGHDEV pizza</a> - Food Ordering Application For Pizza Restaurants With Paypal Integration, Product And Order State Management
